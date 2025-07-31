@@ -7,3 +7,4 @@ All download links for code ides can be found below
 python: https://www.jetbrains.com/pycharm/download/?section=windows  (pycharm)
 c++/ javascript/html/c/c#/ruby/swift : https://code.visualstudio.com/
 (Most of the other languages are used by a small community therefore majority of the big ides dont contain them)
+Also please wait as more and more languages will be added daily
